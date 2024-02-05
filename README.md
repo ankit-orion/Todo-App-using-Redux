@@ -26,4 +26,4 @@ A simple Todo application built with React, styled using Tailwind CSS, and power
 
 Feel free to contribute, report issues, or use this project as a starting point for your own task management applications!
 
-For more information, visit the [live demo](https://your-username.github.io/todo-app).
+For more information, visit the [live demo](https://todoapp-usingredux.vercel.app/).
